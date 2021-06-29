@@ -9,7 +9,7 @@ public class Data {
     private String userEmail;
     private String userName;
 
-    public Data(){} //랜덤수정
+    public Data(){}
     public Data(String userEmail, String userName) {
         this.userEmail = userEmail;
         this.userName = userName;
